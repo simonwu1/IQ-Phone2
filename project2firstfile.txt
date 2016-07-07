@@ -1,0 +1,15 @@
+IQ-Phone2 project is created brand new in github. Added nothing
+
+In Gerrit, it cloned this project from Github.
+
+
+In my Mac terminal, cloned the gerrit IQ-Phone2
+git clone ssh://simonwu1@review.gerrithub.io:29418/simonwu1/IQ-Phone2
+
+This file is the first file added to IQ-Phone2, from Mac.
+
+It is done:
+git add
+git commit
+then 
+git push origin HEAD:refs/for/master
