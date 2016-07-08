@@ -13,3 +13,7 @@ git add
 git commit
 then 
 git push origin HEAD:refs/for/master
+
+This file show up in github.
+
+Now this is changes to the file
