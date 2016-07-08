@@ -1,0 +1,3 @@
+This is the second file for project2
+
+Check if Github can see it without submit from gerrit
