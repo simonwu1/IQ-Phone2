@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baa041b7_e307731b",
+        "filename": "project2secondfile.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1008726
+      },
+      "writtenOn": "2016-07-08T14:41:38Z",
+      "side": 1,
+      "message": "Just a comment",
+      "revId": "5d192d3b6156fb65f5906c22646e4b8553eea09d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa041b7_a3016b08",
+        "filename": "project2secondfile.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1008726
+      },
+      "writtenOn": "2016-07-08T14:41:38Z",
+      "side": 1,
+      "message": "should this be gitHub ?",
+      "range": {
+        "startLine": 3,
+        "startChar": 9,
+        "endLine": 3,
+        "endChar": 15
+      },
+      "revId": "5d192d3b6156fb65f5906c22646e4b8553eea09d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
