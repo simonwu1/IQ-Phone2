@@ -1,0 +1,7 @@
+Jenkins is now configured to look at github IQ-Phone2 project
+
+And gerrit-event trigger used 
+
+We will just try to add a patchset to gerrit and see if Jenkins can see it.
+
+If event detected, Jenkins will just do a check out code and do a pwd and ls -lta
