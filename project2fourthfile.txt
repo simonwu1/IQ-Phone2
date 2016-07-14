@@ -1,3 +1,6 @@
 This is the 4th file for project 2.
 
 gerrit-trigger is configure to monitor on patchset created.
+
+patchset created, but jenkins didn't start build.
+
