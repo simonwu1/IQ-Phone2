@@ -4,3 +4,4 @@ gerrit-trigger is configure to monitor on patchset created.
 
 patchset created, but jenkins didn't start build.
 
+It was missing project and branch info in job configure. Added now
